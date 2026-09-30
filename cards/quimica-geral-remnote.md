@@ -41,8 +41,19 @@
             - Faça a distribuição do cloro (Z = 17). Quantos elétrons de valência ele tem? >> 1s² 2s² 2p⁶ 3s² 3p⁵. São 7 elétrons de valência (3s² 3p⁵). Falta 1 para o octeto.
             - Na distribuição do potássio (Z = 19), o último elétron vai para 3d ou 4s? >> Para o 4s: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹.
             - Por que o subnível 4s é preenchido antes do 3d? >> O diagrama de Linus Pauling segue a ordem crescente de energia, e não a ordem das camadas. O 4s tem energia menor que o 3d.
-            - Por que o subnível s comporta 2 elétrons, o p 6, o d 10 e o f 14? >> Cada orbital comporta 2 elétrons. O s tem 1 orbital, o p tem 3, o d tem 5 e o f tem 7. Então: 2, 6, 10 e 14.
-            - Quantos elétrons cabem nas camadas K, L, M e N, e de onde vem esse número? >> Da fórmula 2n²: K (n = 1) = 2, L (n = 2) = 8, M (n = 3) = 18, N (n = 4) = 32.
+            - Qual é a ordem de preenchimento do diagrama de Linus Pauling? >> 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s 4f 5d 6p 7s 5f 6d 7p. Para não decorar: escreva as camadas em linhas e leia em diagonais.
+        - Orbitais e subníveis
+            - O que é um orbital? >> A região ao redor do núcleo onde a chance de encontrar o elétron é maior. É uma nuvem, e não uma órbita circular.
+            - Quantos elétrons cabem num orbital? >> No máximo 2, com spins opostos (↑↓).
+            - Quantos orbitais têm os subníveis s, p, d e f? >> 1, 3, 5 e 7. São os números ímpares em sequência.
+            - Por que o subnível s comporta 2 elétrons, o p 6, o d 10 e o f 14? >> 2 elétrons por orbital × 1, 3, 5 e 7 orbitais = 2, 6, 10 e 14.
+            - Como o nitrogênio (2p³) distribui os 3 elétrons nos orbitais p? >> ↑ ↑ ↑, um em cada orbital. Regra de Hund: os elétrons só formam pares depois que todo orbital do subnível tem 1.
+        - Camadas
+            - Quais subníveis existem nas camadas K, L, M e N? >> K: s. L: s, p. M: s, p, d. N: s, p, d, f. Cada camada ganha um subnível novo.
+            - Por que a camada M comporta 18 elétrons? >> Ela tem os subníveis s, p e d: 2 + 6 + 10 = 18.
+            - Quantos elétrons cabem em K, L, M e N? >> 2, 8, 18 e 32. É a soma dos subníveis de cada camada, que também é igual a 2n².
+            - Quantos elétrons cabem em O, P e Q? >> 32, 18 e 8. A sequência K a Q se espelha: 2, 8, 18, 32 | 32, 18, 8.
+            - Pela fórmula 2n², a camada O comportaria 50 elétrons. Por que o valor usado é 32? >> Nenhum átomo conhecido tem elétrons suficientes para lotar as camadas O, P e Q. O 32, 18 e 8 são os máximos que aparecem na prática.
         - Eletronegatividade
             - O que é eletronegatividade? >> A força com que um átomo puxa para si os elétrons de uma ligação.
             - Como a eletronegatividade varia na tabela periódica? >> Aumenta para a direita e para cima. O flúor é o mais eletronegativo. Os gases nobres ficam de fora, porque quase não fazem ligações.
