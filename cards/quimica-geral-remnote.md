@@ -1,0 +1,106 @@
+- Química Geral
+    - Estrutura atômica
+        - Partículas do átomo
+            - Um átomo tem 17 prótons, 18 nêutrons e 17 elétrons. Se ele ganhar 1 elétron, que elemento ele passa a ser? >> Continua sendo cloro. Quem define o elemento é o número de prótons (Z = 17). Ganhar elétron só transforma o átomo no íon Cl⁻.
+            - Um núcleo de carbono tem 6 prótons e 6 nêutrons. Se ele passar a ter 8 nêutrons, o que muda? >> Só a massa, que vai de 12 para 14. O elemento continua carbono e vira outro isótopo: o carbono-14.
+            - Carbono-12 e carbono-14 reagem quimicamente do mesmo jeito. Por quê? >> O comportamento químico depende dos elétrons, e os dois têm 6 elétrons. Só a massa do núcleo muda.
+            - O sódio tem Z = 11 e A = 23. Quantos nêutrons ele tem? >> N = A − Z = 23 − 11 = 12 nêutrons.
+            - Por que os elétrons não entram na conta do número de massa A? >> A massa de um elétron é cerca de 1/1836 da massa de um próton. Somar os elétrons mudaria A em menos de 0,1%.
+            - Um átomo tem 20 prótons e 20 elétrons. Qual é a carga total dele, e por quê? >> Zero. Cada próton tem carga +1 e cada elétron tem carga −1, então as cargas se cancelam. Todo átomo neutro tem prótons = elétrons.
+            - O que quer dizer "o átomo busca estabilidade"? >> O arranjo de menor energia é o mais estável. Átomos ganham, perdem ou compartilham elétrons quando isso diminui a energia total.
+        - Íons
+            - Na vira Na⁺. O átomo ganhou ou perdeu elétron? >> Perdeu 1 elétron. Ficou com 11 prótons e 10 elétrons, e sobrou carga +1. Cátion tem menos elétrons que prótons.
+            - Cl vira Cl⁻ (Z = 17). Quantos prótons e quantos elétrons o íon tem? >> 17 prótons e 18 elétrons. Ganhou 1 elétron. Ânion tem mais elétrons que prótons.
+            - O Ca²⁺ tem Z = 20. Quantos elétrons ele tem? >> 18. A carga +2 indica 2 elétrons a menos que o número de prótons.
+            - O O²⁻ tem Z = 8. Quantos elétrons ele tem? >> 10. A carga −2 indica 2 elétrons a mais que o número de prótons.
+            - Um íon positivo ganhou prótons? >> Não. Numa reação química o núcleo não muda. A carga positiva vem de elétrons perdidos.
+            - Por que o sódio forma Na⁺ e não Na⁻? >> Ele tem 1 elétron na camada de valência. Perder 1 elétron gasta muito menos energia do que ganhar 7 para completar o octeto.
+        - Isótopos, isóbaros e isótonos
+            - ¹²C e ¹⁴C: o que é igual e o que muda? >> Igual: Z = 6, então é o mesmo elemento. Muda: os nêutrons (6 e 8) e a massa. São isótopos.
+            - ⁴⁰K (Z = 19) e ⁴⁰Ca (Z = 20): qual é a relação entre eles? >> Mesma massa (A = 40) e elementos diferentes. São isóbaros.
+            - ³⁷Cl (Z = 17) e ⁴⁰Ca (Z = 20): qual é a relação entre eles? >> Nêutrons: 37 − 17 = 20 e 40 − 20 = 20. Mesmo número de nêutrons, então são isótonos.
+            - Qual letra de cada nome indica o que é igual? >> isótoPos = mesmos Prótons. isóbAros = mesma massa A. isótoNos = mesmos Nêutrons.
+            - Por que o carbono-14 serve para datar fósseis? >> É um isótopo instável que decai num ritmo conhecido (meia-vida de ~5.730 anos). Medindo quanto sobrou numa amostra, estima-se a idade dela.
+        - Modelos atômicos
+            - Quais leis a teoria atômica de Dalton explicava? >> A conservação da massa, porque átomos não são criados nem destruídos numa reação. E as proporções fixas, porque átomos se combinam em números inteiros.
+            - Que ideia de Dalton a descoberta do elétron por Thomson (1897) derrubou? >> A de que o átomo é indivisível. O elétron é uma partícula menor que existe dentro do átomo.
+            - Como era o átomo no modelo de Thomson ("pudim de passas")? >> Uma esfera maciça de carga positiva com elétrons espalhados dentro, como passas num pudim. A carga total era zero.
+            - No experimento de Rutherford, a maioria das partículas alfa atravessou a folha de ouro sem desviar. O que isso mostrou? >> Que o átomo é quase todo espaço vazio.
+            - No experimento de Rutherford, algumas partículas alfa voltaram. O que isso mostrou? >> Que existe um núcleo pequeno, denso e positivo, que repele as partículas alfa (também positivas).
+            - O modelo de Rutherford (1911) já tinha nêutrons no núcleo? >> Não. O nêutron só foi descoberto em 1932, por Chadwick.
+            - Qual problema do modelo de Rutherford o modelo de Bohr resolveu? >> Pela física clássica, um elétron girando perderia energia e cairia no núcleo. Bohr propôs níveis de energia fixos, onde o elétron gira sem perder energia.
+            - Um elétron passa do nível 1 para o nível 3. Ele absorveu ou emitiu energia? >> Absorveu. Subir de nível exige energia. Quando ele volta para um nível mais baixo, emite essa energia como luz (fóton).
+            - Por que fogos de artifício têm cores diferentes? >> Cada elemento tem níveis de energia próprios. Os elétrons excitados voltam emitindo luz de cor específica: sódio dá amarelo, estrôncio dá vermelho, bário dá verde.
+            - Onde o modelo de Bohr falha? >> Ele funciona bem para o hidrogênio, que tem 1 elétron. Não consegue prever o espectro de átomos com muitos elétrons.
+            - O que é o estado fundamental de um elétron? >> O nível de menor energia que ele pode ocupar. Qualquer nível acima dele é um estado excitado.
+        - Camada de valência e distribuição eletrônica
+            - O que é a camada de valência, e por que ela importa? >> É a camada mais externa do átomo. Os elétrons dela participam das ligações, então definem o comportamento químico.
+            - Faça a distribuição eletrônica do sódio (Z = 11). >> 1s² 2s² 2p⁶ 3s¹. Camada de valência: a 3, com 1 elétron.
+            - Faça a distribuição do cloro (Z = 17). Quantos elétrons de valência ele tem? >> 1s² 2s² 2p⁶ 3s² 3p⁵. São 7 elétrons de valência (3s² 3p⁵). Falta 1 para o octeto.
+            - Na distribuição do potássio (Z = 19), o último elétron vai para 3d ou 4s? >> Para o 4s: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹.
+            - Por que o subnível 4s é preenchido antes do 3d? >> O diagrama de Linus Pauling segue a ordem crescente de energia, e não a ordem das camadas. O 4s tem energia menor que o 3d.
+            - Por que o subnível s comporta 2 elétrons, o p 6, o d 10 e o f 14? >> Cada orbital comporta 2 elétrons. O s tem 1 orbital, o p tem 3, o d tem 5 e o f tem 7. Então: 2, 6, 10 e 14.
+            - Quantos elétrons cabem nas camadas K, L, M e N, e de onde vem esse número? >> Da fórmula 2n²: K (n = 1) = 2, L (n = 2) = 8, M (n = 3) = 18, N (n = 4) = 32.
+        - Eletronegatividade
+            - O que é eletronegatividade? >> A força com que um átomo puxa para si os elétrons de uma ligação.
+            - Como a eletronegatividade varia na tabela periódica? >> Aumenta para a direita e para cima. O flúor é o mais eletronegativo. Os gases nobres ficam de fora, porque quase não fazem ligações.
+            - Flúor e iodo são da mesma família. Por que o flúor puxa elétrons com mais força? >> O flúor é bem menor. O núcleo dele fica mais perto dos elétrons da ligação e os atrai mais.
+            - Na molécula de HCl, os elétrons da ligação ficam mais perto de qual átomo? >> Do cloro, que é mais eletronegativo. O Cl fica com carga parcial negativa (δ−) e o H com carga parcial positiva (δ+). A ligação é polar.
+            - Por que a ligação no Cl₂ é apolar? >> Os dois átomos são iguais e puxam os elétrons com a mesma força. Nenhum lado fica com carga parcial.
+            - Qual é a ordem prática de eletronegatividade, da maior para a menor? >> F > O > N > Cl > Br > I > S > C > P > H. Frase: "Fui Ontem No Clube, Briguei I Saí Correndo Para o Hospital."
+        - Regra do octeto
+            - Por que os átomos fazem ligações químicas? >> Para chegar a um arranjo de menor energia. Em geral, isso significa ficar com 8 elétrons na valência, como os gases nobres.
+            - Por que o hidrogênio se estabiliza com 2 elétrons, e não com 8? >> Ele só tem a camada K, que comporta no máximo 2 elétrons. Com 2, fica igual ao hélio.
+            - Na água (H₂O), como o oxigênio completa o octeto? >> Ele tem 6 elétrons de valência e compartilha 1 par com cada hidrogênio. 6 + 2 = 8.
+            - Cite um átomo estável com menos de 8 elétrons na valência. >> O boro no BF₃, com 6 elétrons. Ou o berílio no BeCl₂, com 4.
+        - Ligações químicas
+            - NaCl: que tipo de ligação, e por quê? >> Iônica. O Na (metal) perde 1 elétron e o Cl (não metal) ganha. Formam Na⁺ e Cl⁻, que se atraem pelas cargas opostas.
+            - O NaCl é formado por moléculas? >> Não. Compostos iônicos formam um retículo cristalino, uma rede enorme de íons positivos e negativos alternados. Só ligações covalentes formam moléculas.
+            - CO₂: que tipo de ligação? >> Covalente. C e O são não metais e compartilham pares de elétrons: O=C=O, com duas ligações duplas.
+            - Quantos pares de elétrons são compartilhados numa ligação simples, dupla e tripla? >> Simples: 1 par, como em H–H. Dupla: 2 pares, como em O=O. Tripla: 3 pares, como em N≡N.
+            - Por que o cobre conduz eletricidade? >> Na ligação metálica, os elétrons de valência ficam livres, num "mar de elétrons" que se desloca quando há tensão elétrica.
+            - Por que um fio de cobre dobra sem quebrar e um cristal de sal quebra? >> No metal, os átomos deslizam e o mar de elétrons continua segurando todos. No sal, o deslizamento coloca íons de mesma carga lado a lado, eles se repelem e o cristal racha.
+            - Por que o sal sólido não conduz eletricidade, mas a água com sal conduz? >> No sólido, os íons estão presos no retículo. Dissolvidos na água, os íons ficam livres para se mover e carregar a corrente.
+            - Classifique as ligações: KBr, H₂O e Fe. >> KBr: iônica (metal com não metal). H₂O: covalente (não metais). Fe: metálica.
+    - Propriedades da matéria
+        - Mel escorre devagar e água escorre rápido. Que propriedade explica isso? >> A viscosidade, que é a resistência ao escoamento. No mel, as forças entre as moléculas são mais fortes.
+        - Por que um inseto consegue andar sobre a água? >> Por causa da tensão superficial. As moléculas da superfície são puxadas só para os lados e para baixo, e formam uma espécie de película.
+        - Uma poça seca num dia de 25 °C, mas a água só ferve a 100 °C. Como? >> Pela evaporação, que acontece em qualquer temperatura. As moléculas da superfície com mais energia escapam aos poucos.
+        - Qual é a diferença entre evaporação e ebulição? >> Evaporação: lenta, só na superfície, em qualquer temperatura. Ebulição: rápida, no líquido inteiro, com bolhas, numa temperatura fixa (100 °C para a água ao nível do mar).
+        - Gotas de água numa frigideira muito quente "dançam" em vez de ferver. Como se chama isso? >> Calefação. A chapa está muito acima do ponto de ebulição, a base da gota vira vapor na hora e a gota flutua sobre essa camada de vapor.
+    - Leis ponderais
+        - Queimo palha de aço e ela fica mais pesada. A lei de Lavoisier está errada? >> Não. O ferro reagiu com o oxigênio do ar. Somando esse oxigênio, a massa se conserva: em sistema fechado, massa dos reagentes = massa dos produtos.
+        - 2 g de hidrogênio reagem com 16 g de oxigênio e formam 18 g de água. Quanto oxigênio reage com 4 g de hidrogênio? >> 32 g. Lei de Proust: a proporção entre as massas numa substância é fixa (aqui, 1 para 8).
+        - No CO e no CO₂, 12 g de carbono se ligam a 16 g e a 32 g de oxigênio. Qual lei isso mostra? >> A lei de Dalton das proporções múltiplas: fixada a massa de um elemento, as massas do outro formam uma razão de números inteiros simples (16 : 32 = 1 : 2).
+        - Por que a lei de Proust faz sentido com o modelo de Dalton? >> Se os átomos se combinam em números inteiros e cada átomo tem massa fixa, a proporção em massa também tem que ser fixa.
+    - Substâncias e misturas
+        - O₂ e H₂O: qual é substância simples e qual é composta? >> O₂ é simples: um só elemento. H₂O é composta: hidrogênio e oxigênio ligados.
+        - Água destilada é substância pura. E a água do mar? >> É mistura homogênea: água com sais dissolvidos, numa só fase visível.
+        - Água com óleo: quantas fases e que tipo de mistura? >> 2 fases, então é mistura heterogênea.
+        - Todo sistema homogêneo é substância pura? >> Não. O ar, a água com sal e o álcool 70% são homogêneos e são misturas.
+        - Como um aquecimento diferencia substância pura de mistura? >> A substância pura ferve a uma temperatura constante. Na mistura, a temperatura continua subindo durante a fervura.
+        - O₂ e O₃: que fenômeno é esse? >> Alotropia: o mesmo elemento forma substâncias simples diferentes. O O₂ é o oxigênio que respiramos. O O₃ é o ozônio, que filtra a radiação ultravioleta.
+        - Dê um exemplo de alotropia do carbono. >> Diamante e grafite. O diamante é duríssimo e isolante. O grafite é macio e conduz eletricidade. São os mesmos átomos de carbono em arranjos diferentes.
+    - Fenômenos físicos e químicos
+        - Gelo derretendo: fenômeno físico ou químico? >> Físico. Continua sendo H₂O, só mudou de estado.
+        - Palha de aço enferrujando: fenômeno físico ou químico? >> Químico. O ferro vira óxido de ferro, uma substância nova.
+        - Quais sinais indicam que aconteceu uma reação química? >> Formação de gás, mudança de cor, formação de sólido (precipitado), liberação de luz ou calor, mudança de cheiro.
+        - A água fervendo solta bolhas. Isso é reação química? >> Não. As bolhas são vapor de água, a mesma substância. A composição não mudou.
+        - Dissolver açúcar em água é fenômeno físico ou químico? >> Físico. O açúcar se espalha entre as moléculas de água, mas continua sendo açúcar. Dá para recuperá-lo evaporando a água.
+        - O que são propriedades organolépticas? >> As percebidas pelos sentidos: cor, cheiro, sabor, brilho e textura. Ajudam a identificar substâncias, mas nunca se prova nada no laboratório.
+    - Separação de misturas
+        - Por que separar misturas é um processo físico? >> As substâncias não mudam. Elas só são afastadas, aproveitando diferenças de tamanho, densidade, ponto de ebulição, solubilidade ou magnetismo.
+        - Como separar areia e limalha de ferro? >> Separação magnética. O ímã atrai o ferro. Também funciona com cobalto e níquel.
+        - Água com areia: qual é o método mais simples? >> Filtração. A água passa pelo filtro (filtrado) e a areia fica retida.
+        - Como separar água e óleo? >> Decantação, num funil de decantação. A água, mais densa, fica embaixo e sai pela torneira.
+        - Por que a centrífuga acelera a decantação? >> Girando rápido, ela cria um efeito muitas vezes mais forte que a gravidade, e o componente mais denso vai para o fundo mais depressa. Exemplo: separar plasma e hemácias do sangue.
+        - Como separar sal e areia? >> Dissolução fracionada. Adiciona água: o sal dissolve e a areia não. Filtra para tirar a areia e evapora a água para recuperar o sal.
+        - Como separar o arroz da casca, que é mais leve? >> Ventilação. Uma corrente de ar arrasta o componente menos denso.
+        - Como o garimpeiro separa ouro da areia na bateia? >> Levigação. A água corrente arrasta a areia, mais leve, e o ouro, mais denso, fica no fundo.
+        - Como separar serragem e areia? >> Flotação. Coloca a mistura na água: a serragem, menos densa que a água, flutua, e a areia afunda.
+        - Como separar pedras de areia de construção? >> Peneiração, que separa pelo tamanho dos grãos.
+        - Como separar pedrinhas do feijão? >> Catação: separação feita à mão, pela cor, pelo tamanho ou pela forma.
+        - Como obter água pura a partir de água com sal? >> Destilação simples. A água evapora, condensa no condensador e é recolhida (destilado). O sal fica no balão.
+        - Água e álcool: por que a destilação simples não basta? >> Os pontos de ebulição são próximos (100 °C e 78 °C). Usa-se a destilação fracionada, com uma coluna de fracionamento que separa os vapores pela temperatura.
+        - Onde a destilação fracionada é usada em grande escala? >> Nas refinarias de petróleo. Gasolina, querosene e diesel saem em alturas diferentes da coluna.
+        - A filtração separa água e sal dissolvido? >> Não. O sal está dissolvido, formando mistura homogênea, e passa pelo filtro junto com a água.
