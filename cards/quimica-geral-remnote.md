@@ -4,6 +4,8 @@
             - Um átomo tem 17 prótons, 18 nêutrons e 17 elétrons. Se ele ganhar 1 elétron, que elemento ele passa a ser? >> Continua sendo cloro. Quem define o elemento é o número de prótons (Z = 17). Ganhar elétron só transforma o átomo no íon Cl⁻.
             - Um núcleo de carbono tem 6 prótons e 6 nêutrons. Se ele passar a ter 8 nêutrons, o que muda? >> Só a massa, que vai de 12 para 14. O elemento continua carbono e vira outro isótopo: o carbono-14.
             - Carbono-12 e carbono-14 reagem quimicamente do mesmo jeito. Por quê? >> O comportamento químico depende dos elétrons, e os dois têm 6 elétrons. Só a massa do núcleo muda.
+            - Na tabela periódica, o sódio aparece com Z = 11. O que esse número conta? >> Z é o número atômico: a quantidade de prótons no núcleo. Todo átomo de sódio tem 11 prótons.
+            - O sódio mais comum tem A = 23. O que esse número conta? >> A é o número de massa: prótons + nêutrons. No sódio, 11 prótons + 12 nêutrons = 23.
             - O sódio tem Z = 11 e A = 23. Quantos nêutrons ele tem? >> N = A − Z = 23 − 11 = 12 nêutrons.
             - Por que os elétrons não entram na conta do número de massa A? >> A massa de um elétron é cerca de 1/1836 da massa de um próton. Somar os elétrons mudaria A em menos de 0,1%.
             - Um átomo tem 20 prótons e 20 elétrons. Qual é a carga total dele, e por quê? >> Zero. Cada próton tem carga +1 e cada elétron tem carga −1, então as cargas se cancelam. Todo átomo neutro tem prótons = elétrons.
